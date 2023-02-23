@@ -15,3 +15,10 @@ function App() {
 }
 
 export default App;
+
+// -app 
+//    -AdminNavBar
+//    -QuestionForm
+//    -QuestionList
+//       -QuestionItem  
+// 
